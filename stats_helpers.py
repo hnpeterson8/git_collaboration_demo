@@ -9,4 +9,4 @@ def average_or_none(values):
 
     return sum(values) / len(values)
 
-statistics = ['standard-deviation']
+statistics = ['standard-deviation', 'median']
